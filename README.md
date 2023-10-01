@@ -1,2 +1,2 @@
-# Car-Showroom-Management-System-using-C-
-I have developed Car Showroom Management System using C++. I have used concept of inheritance and defining methods outside classes. User can see the features of desired car and purchase the car. Receipt will be automatically generated.
+# Balloon-Shooting-Game-using-C-graphics
+I have created Balloon Shooting game using C graphics. User can play game in 3 levels. If he/she has cleared first level then only he/she can play next level. The speed of balloons will change with every level. I have used graphics.h header file for drawing the balloons, arrows, etc.,
